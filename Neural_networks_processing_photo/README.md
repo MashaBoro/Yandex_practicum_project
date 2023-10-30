@@ -6,3 +6,4 @@ Build and train a neural network for processing buyer photos
 ## Libraries used
 Python Keras
 ## See the project
+[Neural_networks_processing_photo](Neural_networks_processing_photo)
