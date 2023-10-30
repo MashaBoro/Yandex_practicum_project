@@ -1,7 +1,7 @@
-# Обработка фотографий покупателя
-## Данные
-В распоряжении был набор фотографий людей с указанием возраста
-## Задача
-Построить и обучить нейронную сеть для обработка фотографий покупателя
-## Используемые библотеки
+# Processing buyer photos
+## Data
+There was a set of photographs of people with an indication of age
+## Task
+Build and train a neural network for processing buyer photos
+## Libraries used
 Python Keras
