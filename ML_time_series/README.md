@@ -6,4 +6,4 @@ Build a model to predict the number of taxi orders for the next hour to attract 
 ## Libraries used
 Python Pandos Statsmodels Scikit-learn
 ## See the project
-[ML_time_series](https://github.com/MashaBoro/Yandex_practicum_project/blob/75066c9de7f0ad06e91e25be3f04763a45e2ed87/ML_time_series/ML_time_series.ipynb)https://github.com/MashaBoro/Yandex_practicum_project/blob/75066c9de7f0ad06e91e25be3f04763a45e2ed87/ML_time_series/ML_time_series.ipynb)
+[ML_time_series](https://github.com/MashaBoro/Yandex_practicum_project/blob/75066c9de7f0ad06e91e25be3f04763a45e2ed87/ML_time_series/ML_time_series.ipynb)
