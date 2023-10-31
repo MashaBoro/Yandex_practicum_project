@@ -6,4 +6,4 @@ It is necessary to prepare a prototype of a machine learning model. The model mu
 ## Libraries used
 Python Pandos Numpy Matplotlib Scikit-learn Исследовательский анализ
 ## See the project
-[ML_Technological_process_of_gold_processing](https://github.com/MashaBoro/Yandex_practicum_project/blob/146761390329a0cc209c242863aa4968d22e664c/ML_customer_classification/ML_customer_classification.ipynb)
+[ML_Technological_process_of_gold_processing](https://github.com/MashaBoro/Yandex_practicum_project/blob/73e4c1ab9f2c5000016ddee7af1b55d21adf2101/ML_Technological_process_of_gold_processing/ML_Technological_process_of_gold_processing.ipynb)
