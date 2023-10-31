@@ -6,4 +6,4 @@ Develop a method for transforming data so that it is difficult to recover person
 ## Libraries used
 Python Numpy Scikit-learn
 ## See the project
-[Linear_Algebra_client_data_protection](https://github.com/MashaBoro/Yandex_practicum_project/blob/73e4c1ab9f2c5000016ddee7af1b55d21adf2101/ML_Technological_process_of_gold_processing/ML_Technological_process_of_gold_processing.ipynb)
+[Linear_Algebra_client_data_protection](https://github.com/MashaBoro/Yandex_practicum_project/blob/0844afe50ced3fc0c8bc1855351c2a8941df875f/Linear_Algebra_client_data_protection/Linear_Algebra_client_data_protection.ipynb)
