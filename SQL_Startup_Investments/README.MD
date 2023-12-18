@@ -1,9 +1,9 @@
-# Processing buyer photos
+# Analizing data on funds and investvents
 ## Data
-There was a set of photographs of people with an indication of age
+Data is located at the link https://www.kaggle.com/datasets/justinas/startup-investments?select=degrees.csv
 ## Task
-Build and train a neural network for processing buyer photos
+The goal of the project is to analyze data on funds and investments and write queries to the database
 ## Libraries used
-Python Keras
+SQLite3, csv_to_sqlite
 ## See the project
 [SQL_Startup_Investments](https://github.com/MashaBorodkina/Yandex_practicum_project/blob/e92a4cfab486fec53479bfe333121d50bdf9f563/SQL_Startup_Investments/sql-startup-invesments.ipynb)
